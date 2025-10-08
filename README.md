@@ -125,10 +125,10 @@ These insights informed the dashboard and hypotheses validation.
 ---
 
 ## 🧠 AI Integration (LO4)
-- **AI for Ideation:** Hypotheses, business requirements, dashboard wireframe suggestions.  
-- **AI for Code:** Code review, refactoring suggestions, linting hints.  
+- **AI for Ideation:** Help with finding Hypotheses ( acting as Business), business requirements ( acting as business), dashboard wireframe suggestions.  
+- **AI for Code:** Code review, refactoring suggestions.  
 - **AI for Modeling:** Feature selection guidance and baseline model setup.  
-- **AI for Storytelling:** README structure, narrative clarity, and framing for non-technical audiences.
+- **AI for Storytelling:** README structure improvements, narrative clarity, and framing for non-technical audiences.
 
 ---
 
@@ -159,30 +159,24 @@ These insights informed the dashboard and hypotheses validation.
 ---
 
 ## 💾 File Structure
-
-CAPSTONE_KN/
-├─ .venv/
-│
-├─ Assets/
-│  └─ Images/
-│     └─ markdown-cheat-sheet.md
-│
-├─ Dashboards/
-│  └─ Tableau_data/
-│
-├─ Data/
-│  ├─ Cleaned/
-│  └─ Raw/
-│
-├─ jupyter_notebooks/
-│  ├─ 1Data_Analysis.ipynb
-│  ├─ 2DCL.ipynb
-│  ├─ 3EDA.ipynb
-│  ├─ 4ML.ipynb
-│  └─ 5Data_Visualisations.ipynb
-│
-├─ Readme_items/
-│  ├─ Conclusions.md
+📁 **CAPSTONE_KN/**
+- 🔁 **.venv/**
+- 📂 **Assets/**
+  - 🖼️ **Images/**
+    - 📄 markdown-cheat-sheet.md
+- 📊 **Dashboards/**
+  - 📁 Tableau_data/
+- 📦 **Data/**
+  - 🧹 Cleaned/
+  - 🧾 Raw/
+- 📘 **jupyter_notebooks/**
+  - 📓 1Data_Analysis.ipynb  
+  - 📓 2DCL.ipynb  
+  - 📓 3EDA.ipynb  
+  - 📓 4ML.ipynb  
+  - 📓 5Data_Visualisations.ipynb
+- 🧾 **Readme_items/**
+  - 📄 Conclusions.md
 
 ---
 
