@@ -160,7 +160,6 @@ These insights informed the dashboard and hypotheses validation.
 
 ## 💾 File Structure
 
-```text
 CAPSTONE_KN/
 ├─ .venv/
 │
@@ -184,14 +183,6 @@ CAPSTONE_KN/
 │
 ├─ Readme_items/
 │  ├─ Conclusions.md
-│  └─ README.md
-│
-├─ .gitignore
-├─ .python-version
-├─ .slugignore
-├─ Procfile
-├─ requirements.txt
-└─ setup.sh
 
 ---
 
@@ -216,22 +207,47 @@ CAPSTONE_KN/
 
 ## 📖 **Glossary**
 
-| Term / Acronym | Meaning |
-|----------------|----------|
-| **AI (Artificial Intelligence)** | Computer systems that perform tasks requiring human-like intelligence, such as pattern recognition and prediction. |
-| **EDA (Exploratory Data Analysis)** | The process of visually and statistically exploring datasets to summarize their main characteristics. |
-| **ETL (Extract, Transform, Load)** | A data pipeline process that collects data from multiple sources, cleans/transforms it, and loads it into a final dataset or database. |
-| **GDP (Gross Domestic Product)** | A measure of a country’s total economic output and indicator of economic health. |
-| **Hypertension** | High blood pressure — a major modifiable risk factor for stroke. |
-| **IQR (Interquartile Range)** | A measure of statistical dispersion used to detect and handle outliers in numeric data. |
-| **KPI (Key Performance Indicator)** | Quantitative metrics used to track progress toward a specific goal. |
-| **ML (Machine Learning)** | A subset of AI that uses data and algorithms to imitate how humans learn, allowing systems to improve automatically. |
-| **PII (Personally Identifiable Information)** | Any data that can identify an individual (e.g., name, ID, address). This project uses no PII. |
-| **ROC-AUC (Receiver Operating Characteristic – Area Under Curve)** | A metric that measures how well a classification model distinguishes between classes. |
-| **Snake Case** | A naming convention where words are lowercase and separated by underscores (e.g., `avg_glucose_level`). |
-| **StandardScaler** | A preprocessing tool in scikit-learn that normalizes numeric data by removing the mean and scaling to unit variance. |
-| **Tableau** | A business intelligence and data visualization tool used to create dashboards and interactive data stories. |
-| **WHO (World Health Organization)** | The United Nations agency responsible for international public health. |
+**AI (Artificial Intelligence)** 
+Computer systems that perform tasks requiring human-like intelligence, such as pattern recognition and prediction. 
+
+**EDA (Exploratory Data Analysis)** 
+The process of visually and statistically exploring datasets to summarize their main characteristics. 
+
+**ETL (Extract, Transform, Load)** 
+A data pipeline process that collects data from multiple sources, cleans/transforms it, and loads it into a final dataset or database. 
+
+**GDP (Gross Domestic Product)**  
+A measure of a country’s total economic output and indicator of economic health.
+
+**Hypertension**  
+High blood pressure — a major modifiable risk factor for stroke. 
+
+**IQR (Interquartile Range)**  
+A measure of statistical dispersion used to detect and handle outliers in numeric data. 
+
+**KPI (Key Performance Indicator)**  
+Quantitative metrics used to track progress toward a specific goal. 
+
+**ML (Machine Learning)**  
+A subset of AI that uses data and algorithms to imitate how humans learn, allowing systems to improve automatically. 
+
+**PII (Personally Identifiable Information)**  
+Any data that can identify an individual (e.g., name, ID, address). This project uses no PII.
+
+**ROC-AUC (Receiver Operating Characteristic – Area Under Curve)** 
+A metric that measures how well a classification model distinguishes between classes. 
+
+**Snake Case**  
+A naming convention where words are lowercase and separated by underscores (e.g., `avg_glucose_level`). 
+
+**StandardScaler** 
+A preprocessing tool in scikit-learn that normalizes numeric data by removing the mean and scaling to unit variance. 
+
+**Tableau**  
+A business intelligence and data visualization tool used to create dashboards and interactive data stories. 
+
+**WHO (World Health Organization)**  
+The United Nations agency responsible for international public health. 
 
 ---
 
