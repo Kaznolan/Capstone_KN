@@ -190,9 +190,9 @@ These insights informed the dashboard and hypotheses validation.
 | 1 | Environment setup & README draft | R1 | 08/10/2025 | 12:00 |
 | 2 | Data analysis completion | R2 | 08/10/2025 | 17:00 |
 | 3 | Requirements update | R3 | 09/10/2025 | 11:30 |
-| 4 | Clean data finalized | R4 | 09/10/2025 | 20:00 |
-| 5 | Exploratory analysis (EDA) | R5 | 10/10/2025 | 12:00 |
-| 6 | ML baseline model | R6 | 10/10/2025 | 17:00 |
+| 4 | Clean data finalized | R4 | 10/10/2025 | 16:30 |
+| 5 | Exploratory analysis (EDA) | R5 | 10/10/2025 | 20:00 |
+| 6 | ML baseline model | R6 | 11/10/2025 | 17:00 |
 | 7 | General modifications (TBC) | R7 | 11/10/2025 | 19:00 |
 | 8 | Data visualization | R8 | 12/10/2025 | 17:00 |
 | 9 | Tableau dashboard | R9 | 13/10/2025 | 12:00 |
