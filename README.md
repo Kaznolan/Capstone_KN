@@ -46,7 +46,7 @@ This project aims to answer:
 | Dataset | Description | Source |
 |---|---|---|
 | **Healthcare Stroke Data** | 5,110 individual records with health and demographic features used to predict stroke likelihood. | [Kaggle – Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) |
-| **Life Expectancy Data** | WHO dataset containing country-level indicators (life expectancy, GDP, schooling, etc.). | [Kaggle – Life Expectancy (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who) |
+| **Life Expectancy Data** | WHO dataset containing country-level indicators (life expectancy, GDP, schooling, etc.). | [Kaggle – Life Expectancy (WHO)()]https://www.kaggle.com/datasets/adamsmith852/life-expectancy-data-gho) |
 
 Both datasets are **publicly available and anonymized**.
 
@@ -191,10 +191,10 @@ These insights informed the dashboard and hypotheses validation.
 | 2 | Data analysis completion | R2 | 08/10/2025 | 17:00 |
 | 3 | Requirements update | R3 | 09/10/2025 | 11:30 |
 | 4 | Clean data finalized | R4 | 10/10/2025 | 16:30 |
-| 5 | Exploratory analysis (EDA) | R5 | 10/10/2025 | 20:00 |
-| 6 | ML baseline model | R6 | 11/10/2025 | 17:00 |
-| 7 | General modifications (TBC) | R7 | 11/10/2025 | 19:00 |
-| 8 | Data visualization | R8 | 12/10/2025 | 17:00 |
+| 5 | Exploratory analysis (EDA) | R5 | 12/10/2025 | 18:30 |
+| 6 | ML baseline model | R6 | 12/10/2025 | 17:00 |
+| 7 | General modifications (TBC) | R7 | 13/10/2025 | 19:00 |
+| 8 | Data visualization | R8 | 13/10/2025 | 06:00 |
 | 9 | Tableau dashboard | R9 | 13/10/2025 | 12:00 |
 | 10 | Review & documentation update | R10 | 13/10/2025 | 16:00 |
 
@@ -252,6 +252,37 @@ The United Nations agency responsible for international public health.
 - Kaggle Datasets: Stroke Prediction & Life Expectancy  
 - Scikit-learn, Pandas, Matplotlib Documentation  
 - Tableau Public Resources  
+- Centers for Disease Control and Prevention (CDC). (2024). Stroke Risk Factors.
+  U.S. Department of Health and Human Services.
+  Retrieved from https://www.cdc.gov/stroke/risk-factors/index.html
+
+- Benjamin, E. J., Muntner, P., Alonso, A., et al. (2019). Heart Disease and Stroke    Statistics—2019 Update: A Report From the American Heart Association. Circulation Research, 124(3), e437–e448.
+https://www.ahajournals.org/doi/10.1161/circresaha.116.308398
+
+ - Rastogi, P., & Nayak, R. (2019). Aging and Ischemic Stroke. Aging and Disease, 10(6),  1435–1446.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6535078/
+
+World Health Organization (2023) Global Health Estimates 2023: Disease burden by cause, age, sex, by country and by region, 2000–2019. Geneva: WHO. Available at: https://www.who.int/data/gho
+ (Accessed: 12 October 2025).
+
+World Health Organization (2021) WHO Global Health Observatory (GHO) data: Cerebrovascular disease (stroke). Available at: https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cerebrovascular-diseases
+ (Accessed: 12 October 2025).
+
+GBD 2019 Stroke Collaborators (2021) ‘Global, regional, and national burden of stroke and its risk factors, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019’, The Lancet Neurology, 20(10), pp. 795–820. DOI: 10.1016/S1474-4422(21)00252-0
+.
+
+Feigin, V.L., Stark, B.A., Johnson, C.O. et al. (2022) ‘Global, regional, and national burden of stroke and its risk factors, 1990–2021’, The Lancet Neurology, 21(10), pp. 934–953.
+
+World Stroke Organization (2023) Global Stroke Fact Sheet 2023. Available at: https://www.world-stroke.org/
+ (Accessed: 12 October 2025).
+
+Naghavi, M. et al. (2017) ‘Global, regional, and national age–sex specific mortality for 264 causes of death, 1980–2016: a systematic analysis for the Global Burden of Disease Study 2016’, The Lancet, 390(10100), pp. 1151–1210.
+
+World Bank (2023) World Development Indicators: Health and risk factors. Available at: https://data.worldbank.org/indicator
+ (Accessed: 12 October 2025).
+
+Johnson, W., Onuma, O., Owolabi, M. and Sachdev, S. (2016) ‘Stroke: a global response is needed’, Bulletin of the World Health Organization, 94(9), pp. 634–634A. DOI: 10.2471/BLT.16.181636
+.
 
 ---
 
